@@ -1,1 +1,14 @@
-
+{
+  "name": "water-cost-calculator",
+  "version": "1.0.0",
+  "description": "Calculadora de costos de agua para apartamentos",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@/components/ui/alert": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
